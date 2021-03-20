@@ -1,5 +1,5 @@
-## Ссылки:
-- https://hub.docker.com/repository/docker/sangvuba/myproxy-vu
+## Ссылка:
+https://hub.docker.com/repository/docker/sangvuba/myproxy-vu
 ##
 ## Команды строки:
 ```
